@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImobiliariaApp</string>
+    <string name="hint1">Insira a região de seu interesse:</string>
+    <string name="hint2">Região</string>
+    <string name="hint3">Insira o valor máximo desejado:</string>
+    <string name="hint4">Valor</string>
+    <string name="hint5">Existe necessidade de acessibilidade (semescadas)?</string>
+    <string name="hint6">btnS</string>
+    <string name="hint7">btnN</string>
+    <string name="hint8">btnE</string>
+</resources>
